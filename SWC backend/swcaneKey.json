@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lunar-shift-387620",
+  "private_key_id": "55b2a71f13d211146f223b63c9757d95e88d977e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj1KrrHlQ4FuNm\nSveYhM476MYKZIr7hmAO7jeTLTYnMHB+SiPuJRo2HbZx62ySzTwjTnn+PACh8Z9y\nxio6py6U/obg6h/lNsvRDMole9pB/HSXoeyMSECyvMm7onix6VSHpelCvfOuhlLK\nX4gyBVl4Elkoe4ASiIQy9a825+lqgSnCS/bzcJuvhuRJbivTDW/3hyBRiy6/UQgY\nIgw9uRXjJuKenqWMxBIuRjpH18RZXSXl//OXu1wmZIYFuXuKZlZHafVDaFVpiv0Y\nKqhZtVBL7g7Qy9LB7yb6Udj55zHFbFzSPE1tIJFpm6iFHZAa8h8mSCx45oPdv7bL\nIH4FWaCnAgMBAAECggEAIWs5vEFRC6n7k/u52uZITWczsp4Ezb8A7DrComaIE+Fp\nKRHFl4gA+0X/V+iemql72XXiI66osGAh1t8+cP12XpU2/T006WROmiOiPpgvkuNF\nA0NYBdudOviQrBI9zYjbodoBpYgq45Bp5fcryIxXzkrr3fqnSuCHGwAL0EbpUbyY\nYZ03xUV7Zpth/9t99y7cKtCf+DkKzbVG6exRssEP58Kj2k0nAHSG7vIV0H+2JFPC\nqxrWQQZi+ptwH9kQ9FjME/HhBP+GQEQ8spK/IpWxftk0o6vtgigPUMGsducl0fII\nI1GU5dIJN18RftDh05jZqE90u9xmMuMjVT8ozYkRjQKBgQDfhs6HHAZXyUXjWUYJ\neEdGlZ7A9xz6Gg61TZtMsMwFYGR7QJdOWrOrCMSkgnsU2euNwe369bZeo8Om9rrV\n1ULia+W0Zd/GVWYeEPrSdxafo6jyhjk8Wc49cKWzn6n+VX7KCqoXb5EnZ0zwzU55\nF4BTj6lznttqERSusTrSUUkrQwKBgQC7obVE+bxYovnwF267cR2D0njvpciUx+E7\nrvTJ2fz5hADUNtHq05bpPTaBJTRryNOSoOB928pzQER2BKQJIibX7Zg1NKc418ts\nsxyxC3qGU5i8kLm5w8Hw3bDo7zNpSKe+PgGtC3RWBMqeD1WEQIwStN1NQRWQmPLM\nuvknhTBUzQKBgQDD6sJmhdfBZfbNuFe8wSGn6khFVdKeG+y8WJM/+s44AC7SIOD9\nml5UENFaZ8s9kWv2yf2us2LvPJamZyeHeO6wymWBYrFqgzuIKtXNVvgLYEUanS7Z\niNVN4Mg70jwLYiBJMmO3OuB9KvuzLCAV3tVpaEfbwWcLZoE8RLcL1JdPRQKBgQCC\nfUHdyHjug9mi2gkOnupR5SxqLjfDEQdZRKHFR68hsGYLMFzpHWIUr5eaVU+RrkdF\n8FBv901ivc1e7ndOSswM25ZBWm75n0pAPIi1sC/z/2t3qIch5Dya0PLZ7JEqpXbT\nXbg4qoCr2gU3y55Drcg8skA+HAdtWpFxRI9GpuAn+QKBgBC49/xaRG9EKg2etxaF\ngKXAqZJFKlmQNi03MAOu6lxLjJuO2viCYJ90SiJAcBYDK6VvTFe1WhMuIipOAX8a\n5wLV4snqrjTqgxbBJdOFh4a2khSYzqhgCN12E2SXkq0cuM3L3K49oLgvdCxX9psB\ncQTX5/+32YnBluSGCd1BDJ5r\n-----END PRIVATE KEY-----\n",
+  "client_email": "swcane@lunar-shift-387620.iam.gserviceaccount.com",
+  "client_id": "117235562314410475713",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swcane%40lunar-shift-387620.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
